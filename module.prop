@@ -1,0 +1,6 @@
+id=SkiaGlOn
+name=SkiaGl On v1
+version=1
+versionCode=1
+author=ggeo15
+description=activate the SkiaGl graphics renderer on your android (if possible)
